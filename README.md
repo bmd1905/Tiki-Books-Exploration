@@ -1,16 +1,13 @@
 # Tiki Books Exploration
-Ongoing project
 
 ## Overview
-A project crawling, EDA, analyzing comments of books in Tiki (E-commerce).
+A project crawling, EDA books in Tiki (E-commerce in Vietnam).
 
 
-## Project's steps
+## Outline
 1. Crawling Data
 2. Data Preparation
 3. Exploratory Data Analysis (EDA)
-4. Comments Sentiment Analysis (CSA)
-
 
 
 ## Reference
