@@ -1,7 +1,8 @@
 # Tiki Books Exploration
-Ongoing project
+
 ## Overview
-A project crawling, EDA books in Tiki (E-commerce in Vietnam).
+
+This project is about crawling and performing exploratory data analysis (EDA) on books in Tiki, an e-commerce platform in Vietnam.
 
 
 ## Outline
